@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VatosV2/Nexus-SelfBot">
-    <img src="https://nexustools.de/Assets/images/logo.png" alt="Logo">
+    <img src="https://nexustools.de/Assets/images/logo.png" alt="Logo" witdth width="160" height="120">
   </a>
 
   <h3 align="center">Nexus Selfbot <a href="https://discord.gg/nexustools">https://discord.gg/nexustools</a></h3>
