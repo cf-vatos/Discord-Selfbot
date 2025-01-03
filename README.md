@@ -93,5 +93,5 @@
 - **`>translate (text)`** - Translates Text to English
 - **`>quit`** - Quits The Bot
 
-Made by `vatos.py`
+Made by `cf.vatos`
 
